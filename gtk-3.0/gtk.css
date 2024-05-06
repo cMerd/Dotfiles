@@ -1,0 +1,26 @@
+.nemo-window .sidebar .view {
+ 	color: #eeeeee;
+ 	background-color: #151339;
+}
+
+.nemo-window {
+	background-color: #212339;
+	color: #eeeeee;
+}
+.view, .nemo-window iconview, .iconview {
+	background-color: #212339;
+	color: #dddddd;
+}
+
+.toolbar {
+  width: 0px;
+	background-color: #102443;
+	color: #eeeeee;
+}
+
+toolbar {
+	background-color: #102443;
+	color: #ffffff;
+}
+
+
